@@ -1,0 +1,52 @@
+# RFQ a proveedores · calleras híbridas sin agujeros (OEM)
+
+Generado por la skill negotiator (M3) el 15/10/2026. Los campos entre corchetes `[ ]` se rellenan antes de enviar; ninguno se inventa. No revelar nunca presupuesto, PVP objetivo ni margen.
+
+## Correo principal (EN)
+
+Subject: RFQ – Hybrid no-chalk gymnastic hand grips (OEM) – 300/500/1,000 pcs – reply by [dd/mm/aaaa]
+
+Hi [Name],
+
+We are [Company/Brand name], a private-label sports brand selling on Amazon Europe (Amazon.es as main market). We are sourcing fingerless (no-hole) cross-training hand grips with a hybrid grip surface that works both with and without chalk — rubber-coated / coated microfibre or similar — and we are shortlisting 3–5 manufacturers for a first order and a long-term supply relationship.
+
+Product requirements:
+- No-hole (freedom) design, 3 sizes (S/M/L or M/L/XL) — please state the exact palm length per size in cm
+- Hybrid grip surface: reliable adhesion on smooth and knurled pull-up bars, with or without chalk on the bar
+- Wrist closure with soft neoprene padding (no metal buckle touching the skin)
+- Reinforced stitching; OEM: our logo on grip and strap
+- Individual packaging: [CAMPO PENDIENTE – caja o bolsa, se definirá con la spec]
+
+Please quote using the structure below so we can compare like for like:
+1. Unit price at 300 / 500 / 1,000 pcs – FOB [port, e.g. Ningbo/Shenzhen], USD
+2. MOQ and what drives it (material run, line set-up, printing)
+3. Any tooling/set-up cost, and whether it is refundable on repeat orders
+4. Sample cost and sample lead time (express courier to Spain); production lead time in calendar days from deposit
+5. Payment terms
+6. Packaging details: units per carton, carton size, gross weight
+7. Certificates/test reports available for this exact model (lab + date), e.g. REACH for the materials
+8. Are you the manufacturer or a trading company? Please share your business licence and, if possible, a short video of the production line.
+
+Quote validity: at least 30 days. Could you send it by [dd/mm/aaaa]? Thank you!
+
+Best regards,
+[Name]
+[Brand/Company]
+
+## Versión corta (chat de Alibaba / WeChat)
+
+Hi [Name] 😊 We're a EU Amazon brand sourcing no-hole hybrid hand grips (work with & without chalk), neoprene wrist, 3 sizes, OEM logo. Could you quote 300/500/1,000 pcs, FOB [port], with MOQ, sample cost & time, production lead time, payment terms and packing? Are you the factory? By [dd/mm] if possible. Thanks!
+
+## Versión en español (referencia de lo que se envía)
+
+Asunto: Petición de cotización – calleras híbridas sin agujeros (OEM) – 300/500/1.000 uds – respuesta antes del [fecha]
+
+Somos una marca privada que vende en Amazon Europa (amazon.es como mercado principal). Buscamos calleras sin agujeros con superficie híbrida que agarre con y sin magnesio, cierre de muñeca con neopreno, costuras reforzadas y nuestro logo (OEM), en 3 tallas con la medida de palma declarada en cm por talla. Pedimos precio a 300/500/1.000 uds en FOB [puerto] en USD, MOQ y su motivo, coste de preparación y si se devuelve en pedidos repetidos, coste y plazo de la muestra por mensajería exprés a España, plazo de producción en días desde el depósito, condiciones de pago, embalaje (uds/caja, medidas, peso) y certificados del modelo exacto (laboratorio y fecha). Y si son fábrica o intermediario, con licencia de negocio y vídeo de la línea. Validez de la cotización: 30 días mínimo.
+
+## Reglas de uso
+
+- Misma estructura a todas las fábricas: sin eso las ofertas no se pueden comparar.
+- Fecha límite de respuesta a 5–7 días vista.
+- No revelar presupuesto, PVP ni margen; la justificación es "comparamos 3–5 fabricantes".
+- Búsquedas en Alibaba: "no chalk hand grips", "rubber coated crossfit grips", "carbon grips no hole".
+- Cuando lleguen cotizaciones: traerlas a la sesión para analizarlas (analista de ofertas + auditor de riesgos) y correr el filtro económico.
