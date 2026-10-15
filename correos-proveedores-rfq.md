@@ -50,3 +50,28 @@ Somos una marca privada que vende en Amazon Europa (amazon.es como mercado princ
 - No revelar presupuesto, PVP ni margen; la justificación es "comparamos 3–5 fabricantes".
 - Búsquedas en Alibaba: "no chalk hand grips", "rubber coated crossfit grips", "carbon grips no hole".
 - Cuando lleguen cotizaciones: traerlas a la sesión para analizarlas (analista de ofertas + auditor de riesgos) y correr el filtro económico.
+
+## Respuesta a "Please send logo, sizes, and packaging choice" (M3, 15/10/2026)
+
+Objetivo (no se envía): desbloquear la cotización con supuestos estándar y obtener la tabla de tallas del fabricante con medidas en cm.
+
+EN:
+
+Hi [Name],
+
+Thanks for the quick reply. Please quote with these working assumptions so we can move forward — final artwork comes later at sample stage:
+
+1. Logo: one-colour silkscreen print, on the grip surface and on the wrist strap. Our final logo files (vector) will be provided before sampling. If logo printing affects the unit price, please show it as a separate line.
+2. Sizes: please quote your 3 standard sizes and send us your size chart with the exact palm length and grip length in cm per size — we need this to confirm the sizing for the EU market.
+3. Packaging: for this quote, assume standard polybag per pair + export master carton (no custom print). Please add, as a separate optional line, the price for a custom printed box per pair, so we can compare.
+
+With these assumptions, could you send the full quote (300/500/1,000 pcs, FOB [port], sample cost and lead times, payment terms, packing details) by [dd/mm/aaaa]?
+
+Thanks!
+[Name]
+
+Versión corta (chat):
+
+Hi [Name], please quote with: 1-colour logo print (grip + strap, final artwork at sample stage, show cost as separate line), your 3 standard sizes (please send size chart with palm length in cm), standard polybag + master carton (custom box price as optional separate line). Full quote for 300/500/1,000 pcs FOB [port] by [dd/mm]? Thanks!
+
+Notas: el logo como línea separada evita que lo escondan en el precio; la tabla de tallas del fabricante alimenta la ventaja de tallaje; polybag estándar = precio base comparable entre fábricas. Usar la misma respuesta con toda fábrica que pida lo mismo.
