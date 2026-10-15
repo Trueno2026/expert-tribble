@@ -4,7 +4,7 @@
   "esquema_min_lectura": "1.0.0",
   "generado_por": "consultor-marcas-subnicho",
   "creado": "2026-10-15T14:16:44+00:00",
-  "actualizado": "2026-10-15T15:36:47+00:00",
+  "actualizado": "2026-10-15T15:47:06+00:00",
   "id": "DOSSIER",
   "estado": "CONTEXTO",
   "modo_ultima_sesion": null,
@@ -226,6 +226,39 @@
       "metodo_validacion": "verbatims en el informe del analista; por debajo del umbral de 3 ASIN firmes",
       "confianza": "MEDIA",
       "campo_afectado": "subnicho.senales",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-014",
+      "afirmacion": "El hueco hibrido YA NO ES VIRGEN: PICSIL Heron (uso hibrido con y sin magnesio, 54,95 EUR, 332 valoraciones, 4,1 estrellas, 200+ compras/mes) y Velites All Terrain (sin agujeros, 57,99 EUR, 811 valoraciones, n1 mas vendido de la subcategoria) ya lo ocupan en gama alta. Debajo, clones recientes: BLUEGORILLA Hybrid Ops (35,99 EUR, 18 valoraciones, alta 2026-03, ya n11 de la subcategoria, descrito por 3 resenas como identico al Heron de PICSIL mas muneca de neopreno), FORGEX Pro Grip (33,90 EUR, 28 valoraciones, alta 2025-09, n23), In Shock Barcelona (25,97 EUR, 61 valoraciones)",
+      "tipo": "DATO",
+      "fuente": "capturas de listings de amazon.es aportadas por el usuario, con datos de herramienta de vendedor (BSR, fecha de alta, tasas)",
+      "metodo_validacion": "observado en capturas; las resenas de BLUEGORILLA y FORGEX leidas completas (16 y 19)",
+      "confianza": "ALTA",
+      "campo_afectado": "subnicho.competencia",
+      "caduca": null,
+      "sustituye_a": "E-012"
+    },
+    {
+      "id": "E-015",
+      "afirmacion": "La entrada de microvendedores espanoles es viable y rapida: BLUEGORILLA (nacida como box de Cadiz) alcanzo el n11 de la subcategoria en 7 meses clonando el material del lider y anadiendo UNA mejora (muneca de neopreno que resuelve la queja de clavado). Sus resenas confirman las dos quejas de categoria: agarre en barras sucias y comodidad de muneca. Economia observada de su listing: PVP 35,99, tasas Amazon 10,15, neto antes de coste de producto 25,84 EUR (sobre FBA 320 g)",
+      "tipo": "DATO",
+      "fuente": "captura del listing y panel de herramienta de vendedor aportados por el usuario",
+      "metodo_validacion": "cifras leidas de la captura; margen real pendiente de COGS con cotizacion",
+      "confianza": "MEDIA",
+      "campo_afectado": "subnicho.competencia",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-016",
+      "afirmacion": "El tallaje sigue SIN RESOLVER incluso entre los entrantes nuevos: la unica resena de 3 estrellas de BLUEGORILLA es por talla (vestono molto piccolo, la compradora no encontro guia de tallas en ninguna parte y la comparte ella misma en la resena). FORGEX lo esquiva con talla unica (mas grandes de lo habitual segun resena). La mejora de tallaje honesto (patron largo + guia con mano flexionada) sigue libre en toda la banda de precio",
+      "tipo": "ESTIMACION",
+      "fuente": "resenas completas de BLUEGORILLA (16) y FORGEX (19) aportadas por el usuario",
+      "metodo_validacion": "lectura directa de las resenas; muestra pequena (ambos tienen menos de 30 valoraciones)",
+      "confianza": "MEDIA",
+      "campo_afectado": "subnicho.huecos_detectados",
       "caduca": null,
       "sustituye_a": null
     }
