@@ -4,7 +4,7 @@
   "esquema_min_lectura": "1.0.0",
   "generado_por": "consultor-marcas-subnicho",
   "creado": "2026-10-15T14:16:44+00:00",
-  "actualizado": "2026-10-15T14:34:45+00:00",
+  "actualizado": "2026-10-15T15:07:53+00:00",
   "id": "DOSSIER",
   "estado": "CONTEXTO",
   "modo_ultima_sesion": null,
@@ -151,6 +151,28 @@
       "campo_afectado": "subnicho.candidato",
       "caduca": null,
       "sustituye_a": "E-004"
+    },
+    {
+      "id": "E-007",
+      "afirmacion": "Testimonio insider sobre calleras: el agarre depende del material y de la barra (unas exigen barra limpia, otras magnesio); la mayoria resbalan, sobre todo las sin agujero; queja unanime en su box; el propio usuario abandono las calleras por resbalar en toda barra. Friccion secundaria: el cierre de muneca convive mal con la munequera y las transiciones rapidas, se deja con holgura",
+      "tipo": "DATO",
+      "fuente": "declaracion directa del usuario, experiencia propia y de su box",
+      "metodo_validacion": "muestra de un solo box; contrastar transversalidad con corpus de resenas de 3-5 ASIN en amazon.es",
+      "confianza": null,
+      "campo_afectado": "subnicho.senales",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-008",
+      "afirmacion": "El agarre deficiente (resbalan segun barra y magnesio) es la queja transversal de la categoria calleras en amazon.es y genera abandonos (no-clientes recuperables)",
+      "tipo": "HIPOTESIS",
+      "fuente": null,
+      "metodo_validacion": "mapa de utilidad sobre corpus de resenas 1-3 estrellas y pasada 4-5 con pero, en 3+ ASIN; verificar celda uso y verbatims de abandono",
+      "confianza": null,
+      "campo_afectado": "subnicho.huecos_detectados",
+      "caduca": null,
+      "sustituye_a": null
     }
   ],
   "decisiones": [],
