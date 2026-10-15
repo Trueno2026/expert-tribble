@@ -4,7 +4,7 @@
   "esquema_min_lectura": "1.0.0",
   "generado_por": "consultor-marcas-subnicho",
   "creado": "2026-10-15T14:16:44+00:00",
-  "actualizado": "2026-10-15T15:07:53+00:00",
+  "actualizado": "2026-10-15T15:36:47+00:00",
   "id": "DOSSIER",
   "estado": "CONTEXTO",
   "modo_ultima_sesion": null,
@@ -171,6 +171,61 @@
       "metodo_validacion": "mapa de utilidad sobre corpus de resenas 1-3 estrellas y pasada 4-5 con pero, en 3+ ASIN; verificar celda uso y verbatims de abandono",
       "confianza": null,
       "campo_afectado": "subnicho.huecos_detectados",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-009",
+      "afirmacion": "La queja de agarre es DEFECTO DE CATEGORIA: presente en los 4 ASIN del corpus (~45 resenas). Mecanismo dividido: las premium con magnesio (PICSIL) resbalan sin magnesio; las premium sin magnesio (Velites) resbalan si la barra tiene magnesio, suciedad, pintura o humedad; las economicas (WODFITT, EQUIS) resbalan directamente. Nadie resuelve el agarre en cualquier estado de barra",
+      "tipo": "ESTIMACION",
+      "fuente": "resenas.json: 335 resenas, 4 ASIN, pegado orden por importantes, todas las estrellas, ventana 2017-2026",
+      "metodo_validacion": "Recuento manual por resena del agente analista-resenas sobre las 60 resenas 1-3 estrellas mas busqueda tematica en 4-5; mapa_utilidad.py con 78 por ciento sin clasificar, suplido a mano. Verbatims de los 4 ASIN en mapa_1a3.json y mapa_4a5.json",
+      "confianza": "ALTA",
+      "campo_afectado": "subnicho.huecos_detectados",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-010",
+      "afirmacion": "Hueco declarado por el cliente: callera que agarre con y sin magnesio en cualquier barra. Verbatim Velites: tuve que comprarme otra para competiciones porque no puedes controlar el magnesio de la barra. Coincide con el abandono del propio usuario en su box",
+      "tipo": "ESTIMACION",
+      "fuente": "resenas.json, resena indice 158 (Velites) y testimonio E-007",
+      "metodo_validacion": "verbatim literal del corpus; frecuencia baja (hueco explicito en 1 resena, implicito en el patron de mecanismo dividido)",
+      "confianza": "MEDIA",
+      "campo_afectado": "subnicho.huecos_detectados",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-011",
+      "afirmacion": "Segunda queja de categoria: tallaje. ~35 resenas en los 4 ASIN: Velites talla sistematicamente pequeno, PICSIL y EQUIS con guia contradictoria, y en 3 ASIN la medida real no coincide con la publicada. Mejora barata: patron mas largo, guia honesta medida con mano flexionada",
+      "tipo": "ESTIMACION",
+      "fuente": "resenas.json, recuento manual del agente",
+      "metodo_validacion": "verbatims de 4 ASIN en el informe del analista; recuento manual, criterio del agente",
+      "confianza": "ALTA",
+      "campo_afectado": "subnicho.huecos_detectados",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-012",
+      "afirmacion": "El hueco hibrido ya tiene atacantes incipientes en amazon.es: BLUEGORILLA Hybrid Ops (con o sin magnesio, 34,99 EUR, 4,8 estrellas, 18 valoraciones) y FORGEX Pro Grip sin magnesio (33,90 EUR, 28 valoraciones). Pocas resenas: o estan empezando o no saben venderlo. Banda de precio de la categoria observada: 15-45 EUR",
+      "tipo": "DATO",
+      "fuente": "capturas de amazon.es aportadas por el usuario el 2026-11, modulos de productos relacionados",
+      "metodo_validacion": "observado en las capturas del usuario; pendiente de revisar sus listings y resenas antes de fijar la diferenciacion",
+      "confianza": "MEDIA",
+      "campo_afectado": "subnicho.competencia",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-013",
+      "afirmacion": "Queja de muneca (cierre que se clava bajo el pulgar, rigidez, una mencion de cortar circulacion) solo firme en las dos premium (PICSIL y Velites): FRONTERA, no llega a categoria. Las economicas lo resuelven con almohadilla. Posible mejora secundaria, no el eje",
+      "tipo": "ESTIMACION",
+      "fuente": "resenas.json, recuento manual del agente (PICSIL 5, Velites 5, EQUIS 1 debil, WODFITT 0)",
+      "metodo_validacion": "verbatims en el informe del analista; por debajo del umbral de 3 ASIN firmes",
+      "confianza": "MEDIA",
+      "campo_afectado": "subnicho.senales",
       "caduca": null,
       "sustituye_a": null
     }
