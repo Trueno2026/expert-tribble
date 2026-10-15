@@ -4,7 +4,7 @@
   "esquema_min_lectura": "1.0.0",
   "generado_por": "consultor-marcas-subnicho",
   "creado": "2026-10-15T14:16:44+00:00",
-  "actualizado": "2026-10-15T14:16:44+00:00",
+  "actualizado": "2026-10-15T14:27:38+00:00",
   "id": "DOSSIER",
   "estado": "CONTEXTO",
   "modo_ultima_sesion": null,
@@ -105,6 +105,28 @@
       "metodo_validacion": "declaracion directa del usuario en sesion de arranque",
       "confianza": null,
       "campo_afectado": "contexto.sourcing",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-003",
+      "afirmacion": "Sector elegido: crossfit. El usuario entrena crossfit 6 dias por semana: conoce vocabulario, material y comunidad de primera mano",
+      "tipo": "DATO",
+      "fuente": "declaracion directa del usuario en sesion",
+      "metodo_validacion": "declaracion directa del usuario",
+      "confianza": null,
+      "campo_afectado": "contexto.sector",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-004",
+      "afirmacion": "Subnicho candidato: atletas de box que consumen cinta de pulgar para hook grip; ruta Recompra. Pendiente de validar con mineria de resenas (3-5 ASIN, 250-400 resenas) y filtro economico",
+      "tipo": "HIPOTESIS",
+      "fuente": null,
+      "metodo_validacion": "mapa de utilidad sobre corpus de resenas aportado por el usuario y posterior filtro_economico.py con cotizacion real",
+      "confianza": null,
+      "campo_afectado": "subnicho.candidato",
       "caduca": null,
       "sustituye_a": null
     }
