@@ -1,0 +1,214 @@
+{
+  "esquema_version": "1.0.0",
+  "script": "mapa_utilidad",
+  "estado_global": "VERDE",
+  "corpus": {
+    "resenas_totales": 335,
+    "resenas_en_rango": 60,
+    "rango_estrellas": [
+      1.0,
+      3.0
+    ],
+    "n_asins": 4,
+    "clausulas": 148,
+    "sin_clasificar": 116,
+    "sesgo": null,
+    "advertencia": "Las cuotas son porcentaje de las cláusulas clasificadas de este corpus, no de la población de compradores. Enúncialo así."
+  },
+  "celdas": [
+    {
+      "etapa": "uso",
+      "palanca": "sin_palanca",
+      "n_clausulas": 23,
+      "cuota_dentro_del_corpus": 0.7188,
+      "n_asins": 4,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Mala calidad a los 3 meses se quedan sin agarre, se rompen todas"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Materiales correctos"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Calidad precio Geniales para iniciarte"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "Mal producto Mal material no agarran"
+        }
+      ]
+    },
+    {
+      "etapa": "eliminacion",
+      "palanca": "sin_palanca",
+      "n_clausulas": 2,
+      "cuota_dentro_del_corpus": 0.0625,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "No tiene grip Las he tenido que devolver, ya que no tienen nada de grip"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "Muy malas Terrible es tirar el dinero"
+        }
+      ]
+    },
+    {
+      "etapa": "compra",
+      "palanca": "sin_palanca",
+      "n_clausulas": 2,
+      "cuota_dentro_del_corpus": 0.0625,
+      "n_asins": 2,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "Fatal Sólo las he utilizado 4 veces y cómo se aprecia en la foto rotas"
+        },
+        {
+          "asin": "EQUIS-GOVICENS",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "Decepción… No se corresponde con la Descripcion… Calleras muy al límite de calidades"
+        }
+      ]
+    },
+    {
+      "etapa": "mantenimiento",
+      "palanca": "sin_palanca",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0312,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 1.0,
+          "texto": "Me salieron malas Me duró meses, usándolas poco"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "diversion_imagen",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0312,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "podrían ser más cómodas Buen producto con diseño duro y materiales resistentes"
+        }
+      ]
+    },
+    {
+      "etapa": "entrega",
+      "palanca": "sin_palanca",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0312,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Si vas a realizar pocas repeticiones y las barras de tu box son lisas, puedes comprarlas"
+        }
+      ]
+    },
+    {
+      "etapa": "mantenimiento",
+      "palanca": "medio_ambiente",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0312,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "EQUIS-GOVICENS",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Recomiendo que se utilice con muñequeras ya que te puedes clavar el aro de hierro para pegar el velcro"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "simplicidad",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0312,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "EQUIS-GOVICENS",
+          "review_id": "",
+          "estrellas": 3.0,
+          "texto": "Buoni guanti per il fitness, ma con qualche miglioramento necessario La fibra di carbonio usata per il grip offre una buona presa, anche durante esercizi impegnativi, riducendo la possibilità di scivolamenti durante le a"
+        }
+      ]
+    }
+  ],
+  "celdas_candidatas": [],
+  "huecos_declarados": [
+    {
+      "asin": "PICSIL-RX",
+      "review_id": "",
+      "texto": "protege adecuadamente la palma, si tuviera mayor grosor sería mas agradable, especialmente cuando te toca un wod con bastantes gimnasticos"
+    }
+  ],
+  "nota_huecos": "Frases en las que el comprador dice literalmente qué producto quiere que exista. Es la señal de mayor valor del corpus.",
+  "frontera": {
+    "este_script_no_decide": [
+      "cómo se llama el dolor en las palabras del cliente",
+      "si el dolor es resoluble a un coste que deje margen",
+      "si el hueco sostiene un posicionamiento defendible",
+      "si el corpus es suficiente para concluir"
+    ]
+  },
+  "avisos": [
+    "mapa-utilidad.json no tiene fecha_verificacion. Toda cifra derivada de él sale como ESTIMACION, nunca como DATO. Verifícalo en la fuente oficial y pon fecha_verificacion."
+  ]
+}

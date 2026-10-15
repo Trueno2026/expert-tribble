@@ -1,0 +1,440 @@
+{
+  "esquema_version": "1.0.0",
+  "script": "mapa_utilidad",
+  "estado_global": "VERDE",
+  "corpus": {
+    "resenas_totales": 335,
+    "resenas_en_rango": 275,
+    "rango_estrellas": [
+      4.0,
+      5.0
+    ],
+    "n_asins": 4,
+    "clausulas": 718,
+    "sin_clasificar": 563,
+    "sesgo": null,
+    "advertencia": "Las cuotas son porcentaje de las cláusulas clasificadas de este corpus, no de la población de compradores. Enúncialo así."
+  },
+  "celdas": [
+    {
+      "etapa": "uso",
+      "palanca": "sin_palanca",
+      "n_clausulas": 104,
+      "cuota_dentro_del_corpus": 0.671,
+      "n_asins": 4,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "MATERIAL Y COMODIDAD: El material es resistente"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "CONCLUSIÓN: Unas calleras muy buenas para CrossFit: materiales resistentes, ajuste cómodo y protección efectiva"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "De todos los productos que habían fue el que más me convenció por las reseñas y la calidad general que prometían"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Excelente calidad Muy buenas calleras, las pille para hacer muscle-up en crossfit y van bien, al principio agarran demasiado y hay que acostumbrarse,"
+        }
+      ]
+    },
+    {
+      "etapa": "compra",
+      "palanca": "sin_palanca",
+      "n_clausulas": 11,
+      "cuota_dentro_del_corpus": 0.071,
+      "n_asins": 4,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Me gusta que a mayores trae una medida para que puedas elegir la talla, se siente más personalizado y adaptable a todo público"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Le pongo 4 estrellas porque siguiendo la tabla de medidas, le correspondería una L,"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Es importante elegir bien la talla para que agarren bien"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "He visto comentarios sobre que el tamaño es mayor de lo que dice la descripción"
+        }
+      ]
+    },
+    {
+      "etapa": "entrega",
+      "palanca": "sin_palanca",
+      "n_clausulas": 10,
+      "cuota_dentro_del_corpus": 0.0645,
+      "n_asins": 3,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Se ajustan muy bien a la mano y no se me han vuelto a abrir desde que las uso"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Velites store packages the product very well and it is right as expected Fast delivery and very well packaged"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "El envio tardó mas de lo indicado"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Personalmente, fue una buena compra porque el box al que voy tiene barras que están sin pintar"
+        }
+      ]
+    },
+    {
+      "etapa": "mantenimiento",
+      "palanca": "sin_palanca",
+      "n_clausulas": 7,
+      "cuota_dentro_del_corpus": 0.0452,
+      "n_asins": 3,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "No se mueven ni se deslizan, lo que ayuda a mantener la concentración cuando estás haciendo repeticiones largas o movimientos complejos"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "poco a poco se van amoldando a la mano"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "ojo al lavarlas)"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Si no fuera por que se hinca en la mano sería una callera de 11 sobre 10 (cuidado de que no tenga nada de magnesio la barra)"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "diversion_imagen",
+      "n_clausulas": 6,
+      "cuota_dentro_del_corpus": 0.0387,
+      "n_asins": 4,
+      "transversal": true,
+      "lectura": "problema de categoría: quien lo resuelva se diferencia",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Buen agarre y diseño Son mis primeras calleras y me han sorprendido bastante: buen agarre desde el primer día, la microperforación del material realmente ayuda a que la mano respire cuando haces un WOD largo"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Regalo de valor y producto de calidad durable Se las regale a mi hermana que practica crossfit dudando si le serviran"
+        },
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Buena calidad y diseño Buena calidad y diseño"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "cómodo, excelente agarre para ejercicios con barra, material duradero, diseño unisex y ergonómico"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "medio_ambiente",
+      "n_clausulas": 5,
+      "cuota_dentro_del_corpus": 0.0323,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "CALLERAS ECONÓMICAS Compré estas calleras de CrossFit y la verdad es que me sorprendieron bastante por su calidad y precio"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "para crossfit tiene una gran calidad de agarre, hace poco me inicie al crossfit y las uso a diario, es buena calidad, recomiendo"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Buena calidad Van de lujo en los entrenamientos se nota que son de buena calidad, las recomiendo"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "MUY RECOMENDABLE POR SU BUENA CALIDAD Para mi lo mas importante ha sido su ajuste"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "comodidad",
+      "n_clausulas": 4,
+      "cuota_dentro_del_corpus": 0.0258,
+      "n_asins": 2,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "El material es muy flexible y no produce rozaduras ni molestias"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Las uso tambien para peso muerto o algunos ejercicios de barra pesados"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "algo incómodo para el agarre"
+        },
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "muy practicas nos han gustado mucho, las hemos comprado para mi pareja que se esta iniciando en el CrossFit y le han ido de maravilla, comodas, de un material resistente, se sujetan bien a la muñeca, cumplen su funcion p"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "productividad",
+      "n_clausulas": 2,
+      "cuota_dentro_del_corpus": 0.0129,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Al no pasar el pulgar y no sentir la seguridad del agarre, trabajo incomodo y hago mas esfuerzo"
+        },
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Práctica Hasta el momento cumplen su función y no producen ni dolor ni molestias como he leído en algunos comentarios, se ven de buen material y son fundamentales para realizar un trabajo intenso cuando trabajas en suspe"
+        }
+      ]
+    },
+    {
+      "etapa": "uso",
+      "palanca": "riesgo",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Si además, tienes poca fuerza, como es mi caso, intentar colgarte de una barra con la intención de hacer una dominada, lo último que quieres es estar preocupada por el dolor en las palmas de las manos"
+        }
+      ]
+    },
+    {
+      "etapa": "compra",
+      "palanca": "riesgo",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": false,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "Increíbles La talla coincide con la de la descripción son muy cómodas y aparte a un buen precio, la durabilidad aún no la sé con seguridad ya que las llevo utilizando dos semanas"
+        }
+      ]
+    },
+    {
+      "etapa": "entrega",
+      "palanca": "comodidad",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "PICSIL-RX",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "POR EL LATERAL AL SER DE TRES DEDOS, COMO QUE ROZA UN POCO"
+        }
+      ]
+    },
+    {
+      "etapa": "eliminacion",
+      "palanca": "sin_palanca",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "VELITES-QUAD-ULTRA",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Voy a tener que devolverlas"
+        }
+      ]
+    },
+    {
+      "etapa": "eliminacion",
+      "palanca": "diversion_imagen",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 5.0,
+          "texto": "Tienen un agarre muy bueno y la goma que viene de regalo va perfecta para estirar, calentar o como ayuda en las primeras dominadas"
+        }
+      ]
+    },
+    {
+      "etapa": "mantenimiento",
+      "palanca": "riesgo",
+      "n_clausulas": 1,
+      "cuota_dentro_del_corpus": 0.0065,
+      "n_asins": 1,
+      "transversal": false,
+      "lectura": "defecto de ese fabricante, no hueco de mercado",
+      "etapa_infraexplotada": true,
+      "verbatims": [
+        {
+          "asin": "WODFITT-CARBON",
+          "review_id": "",
+          "estrellas": 4.0,
+          "texto": "También reduce el posible dolor que te pueda hacer una barra de metal duro contra la palma de la mano"
+        }
+      ]
+    }
+  ],
+  "celdas_candidatas": [
+    {
+      "etapa": "entrega",
+      "palanca": "sin_palanca",
+      "n_clausulas": 10
+    },
+    {
+      "etapa": "mantenimiento",
+      "palanca": "sin_palanca",
+      "n_clausulas": 7
+    }
+  ],
+  "huecos_declarados": [
+    {
+      "asin": "VELITES-QUAD-ULTRA",
+      "review_id": "",
+      "texto": "Se pegan a la barra como si tuvieran algún adhesivo"
+    },
+    {
+      "asin": "VELITES-QUAD-ULTRA",
+      "review_id": "",
+      "texto": "una cosa hay que tener en cuenta, si la barra tiene magnesio resbala bastante, yo me tuve que comprar otra para cuando voy a competiciones porque en una competición no puedes controlar el magnesio de la barra"
+    }
+  ],
+  "nota_huecos": "Frases en las que el comprador dice literalmente qué producto quiere que exista. Es la señal de mayor valor del corpus.",
+  "frontera": {
+    "este_script_no_decide": [
+      "cómo se llama el dolor en las palabras del cliente",
+      "si el dolor es resoluble a un coste que deje margen",
+      "si el hueco sostiene un posicionamiento defendible",
+      "si el corpus es suficiente para concluir"
+    ]
+  },
+  "avisos": [
+    "mapa-utilidad.json no tiene fecha_verificacion. Toda cifra derivada de él sale como ESTIMACION, nunca como DATO. Verifícalo en la fuente oficial y pon fecha_verificacion."
+  ]
+}
