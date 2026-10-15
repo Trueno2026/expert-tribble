@@ -4,7 +4,7 @@
   "esquema_min_lectura": "1.0.0",
   "generado_por": "consultor-marcas-subnicho",
   "creado": "2026-10-15T14:16:44+00:00",
-  "actualizado": "2026-10-15T14:27:38+00:00",
+  "actualizado": "2026-10-15T14:34:45+00:00",
   "id": "DOSSIER",
   "estado": "CONTEXTO",
   "modo_ultima_sesion": null,
@@ -129,6 +129,28 @@
       "campo_afectado": "subnicho.candidato",
       "caduca": null,
       "sustituye_a": null
+    },
+    {
+      "id": "E-005",
+      "afirmacion": "Insider (usuario, 6 dias/semana en box): la cinta de pulgar se percibe como resuelta (barata, colores llamativos, sin queja); el consumible mas repuesto y con mas queja en su box son las calleras",
+      "tipo": "DATO",
+      "fuente": "declaracion directa del usuario, observacion de su propio box",
+      "metodo_validacion": "contrastar con corpus de resenas de amazon.es (muestra de un solo box, n pequeno)",
+      "confianza": null,
+      "campo_afectado": "subnicho.senales",
+      "caduca": null,
+      "sustituye_a": null
+    },
+    {
+      "id": "E-006",
+      "afirmacion": "Nuevo candidato ancla: calleras de crossfit (grips), duradero con desgaste y recompra natural; cinta y magnesio como catalogo de recompra detras. Sustituye a la cinta hook grip como candidato principal",
+      "tipo": "HIPOTESIS",
+      "fuente": null,
+      "metodo_validacion": "mineria de resenas 3-5 ASIN de calleras en amazon.es (mapa de utilidad) y filtro economico con cotizacion real",
+      "confianza": null,
+      "campo_afectado": "subnicho.candidato",
+      "caduca": null,
+      "sustituye_a": "E-004"
     }
   ],
   "decisiones": [],
