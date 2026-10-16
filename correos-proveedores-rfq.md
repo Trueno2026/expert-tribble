@@ -75,3 +75,18 @@ Versión corta (chat):
 Hi [Name], please quote with: 1-colour logo print (grip + strap, final artwork at sample stage, show cost as separate line), your 3 standard sizes (please send size chart with palm length in cm), standard polybag + master carton (custom box price as optional separate line). Full quote for 300/500/1,000 pcs FOB [port] by [dd/mm]? Thanks!
 
 Notas: el logo como línea separada evita que lo escondan en el precio; la tabla de tallas del fabricante alimenta la ventaja de tallaje; polybag estándar = precio base comparable entre fábricas. Usar la misma respuesta con toda fábrica que pida lo mismo.
+
+## Ronda de respuestas 16/10/2026
+
+Proveedor A (Sophia Mao, via Cassie Luo): "we can make all grips you can see in the market... which our model do you want? what type of logo options?"
+Diagnostico: posible trading company (promete todo el mercado); no contesto si es fabricante. Respuesta enviable: pedirle SUS 2-3 modelos mas cercanos a la spec con fotos reales, material, tabla de tallas en cm y precio 300/500/1000 FOB, logo 1 color como linea separada, y repetir la pregunta fabricante + licencia + video.
+
+Proveedor B (Jessica Chen): solo saludo. Enviarle el RFQ corto estandar.
+
+Respuesta a Sophia (EN):
+Hi Sophia, thanks for confirming. Rather than us picking from your catalogue, could you send your 2-3 existing models closest to this spec: no-hole grips, hybrid surface that grips both with and without chalk, wrist closure with neoprene padding, 3 sizes? For each model, please include: real photos (not renders), grip material, your size chart with palm length in cm per size, and unit price at 300/500/1,000 pcs, FOB [port], plus sample cost and lead times and payment terms. Logo: assume one-colour silkscreen print on grip and strap, shown as a separate cost line - final artwork comes at sample stage. Also, to complete our supplier file: are you the manufacturer? Could you share your business licence and a short video of the production line? Could we have this by [dd/mm]? Thanks!
+
+Mensaje a Jessica (EN):
+Hi Jessica, nice to meet you! We're a EU Amazon brand sourcing no-hole hybrid hand grips (work with & without chalk), neoprene-padded wrist, 3 sizes, OEM logo (1-colour print, cost as separate line). Could you quote 300/500/1,000 pcs, FOB [port], with MOQ, sample cost & time, production lead time, payment terms, packing details and your size chart (palm length in cm)? Are you the manufacturer? By [dd/mm] if possible. Thanks!
+
+Regla: no elegir nunca "el modelo" antes de ver precios; que cada proveedor ensene su gama con numeros.
